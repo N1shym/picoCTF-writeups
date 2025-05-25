@@ -6,7 +6,7 @@ Welcome to my collection of **PicoCTF challenge writeups**. This repository cont
 
 
 
-## 📂 Categories
+##  Categories
 
 - [Web Exploitation](./web-exploitation)
 
