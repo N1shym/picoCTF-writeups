@@ -1,1 +1,10 @@
-# picoCTF-writeups
+# WebDecode
+
+![image.png](image.png)
+
+- Inspect the About page.
+- Found a Base64 encoded text.
+
+![image.png](image%201.png)
+
+- Decode it using CyberChef.
